@@ -217,6 +217,19 @@ Kita bisa melihat dan mengeksplor pekerjaan bidang IT seperti UI/UX Designer, Da
 </p>
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+Saya mencoba eksplorasi Lowongan Freelancer di Freelancer.com. Di website ini kita dapat banyak melihat lowongan-lowongan sesuai dengan yang kita inginkan. Kita bisa atur skill yang kita miliki, sehingga dari website akan direkomendasikan lowongan freelance sesuai skill yang kita pilih.
+<p align="center">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/freelance%20(skill).png" width="700" height="400">
+</p>
+
+Disini kita bisa mencari lowongan freelance, melihat profile freelancer yang lain, dsb.
+<p align="center">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/freelance.png" width="700" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/freelance%20(IT).png" width="700" height="400">
+</p>
+
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
