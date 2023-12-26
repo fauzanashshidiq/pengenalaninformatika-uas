@@ -153,7 +153,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-#### Duolingo ini ialah aplikasi untuk belajar berbagai bahasa negara. Ada banyak sekali bahasa yang bisa kita pelajari
+Duolingo ini ialah aplikasi untuk belajar bahasa dari berbagai negara. Ada banyak sekali bahasa yang bisa kita pelajari.
+
+<img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(bahasa).jpeg" width="200" height="450">
+
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
