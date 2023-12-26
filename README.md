@@ -8,9 +8,9 @@
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-Google collaboratory saya aktifkan dalam google drive saya, dan google colab ini dikembangkan dengan mengdukung bahasa pemrograman bahasa python. Oleh karena itu, saya coba gunakan google colab dengan bahasa pemrograman python.
-![Screenshot 2023-12-26 192120](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/bccb4ef4-5f35-419d-b083-d6d9ea3a4715)
+### Google collaboratory saya aktifkan dalam google drive saya, dan google colab ini dikembangkan dengan mengdukung bahasa pemrograman bahasa python. Oleh karena itu, saya coba gunakan google colab dengan bahasa pemrograman python.
 ![Screenshot 2023-12-26 191826](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/c804836a-11a2-4336-88b6-d40af8607aa5)
+![Screenshot 2023-12-26 192120](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/bccb4ef4-5f35-419d-b083-d6d9ea3a4715)
 
 ## Mencoba Console Sistem Operasi
 
