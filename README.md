@@ -16,7 +16,8 @@
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+![Screenshot 2023-12-26 195154](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/653eced8-095d-46ce-a057-c3e978aacfc9)
+![Screenshot 2023-12-26 195145](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/61c2ef22-1bde-4565-84a2-e7c641a431fd)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
