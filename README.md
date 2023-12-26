@@ -62,6 +62,7 @@ OUTPUT:
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 Penggunaan HackerRank saya coba demonstrasikan di youtube: Muhammad Fauzan Ashshidiq
+
 https://youtu.be/FS49wfySVX0
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
