@@ -8,34 +8,41 @@
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-#### Google collaboratory saya aktifkan dalam google drive saya, dan google colab ini dikembangkan dengan mengdukung bahasa pemrograman bahasa python. Oleh karena itu, saya coba gunakan google colab dengan bahasa pemrograman python.
-![Screenshot 2023-12-26 191826](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/c804836a-11a2-4336-88b6-d40af8607aa5)
-![Screenshot 2023-12-26 192120](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/bccb4ef4-5f35-419d-b083-d6d9ea3a4715)
+Google collaboratory saya aktifkan dalam google drive saya.
+
+<p align="center">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Google%20Colab%201.png" width="700" height="400">
+</p>
+
+Google colab ini dikembangkan dengan mengdukung bahasa pemrograman bahasa python. Oleh karena itu, saya coba gunakan google colab dengan bahasa pemrograman python.
+
+<p align="center">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Google%20Colab%202.png" width="700" height="400">
+</p>
 
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
-![Screenshot 2023-12-26 195145](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/61c2ef22-1bde-4565-84a2-e7c641a431fd)
-![Screenshot 2023-12-26 195154](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/653eced8-095d-46ce-a057-c3e978aacfc9)
+
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 #### Saya membuat flowchart untuk algoritma Bubble Sort menggunakan bahasa pemrograman java.
 
-![Flowchart](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/ae52e216-7fb4-4437-975c-9acd1be867a2)
+
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-![Screenshot 2023-12-26 203856](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/a30e4415-d285-4bf0-a5d1-782af121d989)
+
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 <p align="center">
   <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Bubble%20Sort%201.png" width="500" height="300">
 </p>
-#### OUTPUT:
 
-![Screenshot 2023-12-26 195906](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/0d726f7f-4cd7-4854-b7ba-fd4fa92d2604)
+OUTPUT:
+
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
@@ -133,7 +140,6 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 #### Duolingo ini ialah aplikasi untuk belajar berbagai bahasa negara. Ada banyak sekali bahasa yang bisa kita pelajari
-![WhatsApp Image 2023-12-26 at 9 03 26 PM (1)](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/e033d8d2-76da-4738-927e-8a4daca0a9a1)
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
