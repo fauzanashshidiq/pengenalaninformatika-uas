@@ -200,6 +200,21 @@ Selain itu, fitur yang membuat kita semangat bermain ialah misi harian. Misi ini
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+Saya mencoba searching lowongan pekerjaan di google, lalu saya mendapatkan website yang berisi untuk mencari lowongan pekerjaan. Di website ini kita bisa mencari lowongan pekerjaan kita dari berbagai bidang apapun, seperti pekerjaan bidang IT. Di website ini, terdapat fitur untuk jenis pekerjaan, tempat lowongan pekerjaan, sampai gaji/pendapatan. https://www.jobstreet.co.id/id/jobs
+<p align="center">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/loker.png" width="700" height="400">
+</p>
+
+Kita bisa melihat dan mengeksplor pekerjaan bidang IT seperti UI/UX Designer, Data Science, Frontend Developer, dsb.
+<p align="center">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/loker%20(ui-ux%20designer).png" width="700" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/loker%20(data%20science).png" width="700" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/loker%20(frontend%20dev).png" width="700" height="400">
+</p>
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
