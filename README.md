@@ -118,6 +118,9 @@ Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram,
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+Saya membuat konten di Wordpress dengan judul "Sertakan Doa dalam Proses Memohon Bimbingan Allah dalam Menghafal". Dimana konten saya ini terinspirasi (menge-link) dari konten Wordpress yang berjudul "Tips Menghafal Al-Qur'an untuk Mahasiswa"
+
+https://fauzanashshidiq.wordpress.com/2023/12/17/sertakan-doa-dalam-proses-memohon-bimbingan-allah-dalam-menghafal/
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
