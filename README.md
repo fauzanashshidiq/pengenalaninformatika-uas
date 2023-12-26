@@ -31,7 +31,7 @@
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 <p align="center">
-  <img src="[https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Bubble%20Sort%201.png](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Bubble%20Sort%201.png)" width="500" height="300">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Bubble%20Sort%201.png" width="500" height="300">
 </p>
 #### OUTPUT:
 
