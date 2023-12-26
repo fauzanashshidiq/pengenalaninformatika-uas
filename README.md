@@ -33,8 +33,11 @@ Google colab ini dikembangkan dengan mengdukung bahasa pemrograman bahasa python
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-#### Saya membuat flowchart untuk algoritma Bubble Sort menggunakan bahasa pemrograman java.
+Saya membuat flowchart untuk algoritma Bubble Sort menggunakan bahasa pemrograman java.
 
+<p align="center">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Flowchart.jpg" width="500" height="700">
+</p>
 
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
@@ -43,7 +46,7 @@ Google colab ini dikembangkan dengan mengdukung bahasa pemrograman bahasa python
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 <p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Bubble%20Sort%201.png" width="500" height="300">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Bubble%20Sort%201.png" width="500" height="500">
 </p>
 
 OUTPUT:
