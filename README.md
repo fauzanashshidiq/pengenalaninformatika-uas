@@ -23,7 +23,12 @@ Google colab ini dikembangkan dengan mengdukung bahasa pemrograman bahasa python
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
-
+<p align="center">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/CMD%201.png" width="700" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/CMD%202.png" width="700" height="400">
+</p>
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
