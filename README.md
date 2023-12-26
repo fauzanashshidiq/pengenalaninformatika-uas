@@ -156,25 +156,43 @@ Duolingo ini ialah aplikasi untuk belajar bahasa dari berbagai negara. Ada banya
 
 <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(bahasa).jpeg" width="200" height="450">
 
+Saat kita ingin memulai Duolingo ini, pertama-tama kita akan memulai dengan tingkat kesulitannya rendah, lalu tingkat kesulitannya akan semakin meningkat.
+
 <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(mulai).jpeg" width="200" height="450">
+
+Saat selesai menjawab soal-soal, Duolingo ini memiliki fitur hasil dari jawaban kita.
 
 <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(hasil%20jawab%20soal).jpeg" width="200" height="450">
 
+Selain itu, setelah selesai menjawab kita akan mendapat xp. Dimana xp ini sebagai patokan untuk rank kita di aplikasi ini.
+
 <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(rank%20mingguan).jpeg" width="200" height="450">
+
+Aplikasi ini ialah aplikasi untuk belajar dengan tampilan yang menghibur. Duolingo memiliki fitur nyawa (hati). Ini membuat kita bermain aplikasi tanpa bermain-main. Karena, kita hanya diberi nyawa maksimal 5. Ketika kita salah menjawab satu soal, maka nyawa akan berkurang 1. Namun, nyawa ini juga akan bertambah sesuai waktu yang telah ditentukan.
 
 <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(nyawa).jpeg" width="200" height="450">
 
+Selain itu, Duolingo terdapat fitur untuk melatih pendengaran dan pelafalan kita. Disini saya mencoba melatih pendengaran dan pelafalan saya dalam bahasa Inggris.
+
 <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(Berbicara).jpeg" width="200" height="450">
 
-<img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(ulasan).jpeg" width="200" height="450">
+Fitur dari Duolingo ini, kita dapat melatih ulang kesalahan-kesalahan kita ketika sebelumya pernah menjawab soal dengan salah.
 
-<img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(kesalahan).jpeg" width="200" height="450">
+<img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(ulasan).jpeg" width="200" height="450"> <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(kesalahan).jpeg" width="200" height="450">
+
+Selain itu, fitur yang membuat kita tidak jenuh/bosan ialah cerita. Dimana kita bisa belajar dengan alur cerita yang sudah diberikan.
 
 <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(Cerita).jpeg" width="200" height="450">
 
+Fitur yang membuat kita ingin bermain terus ialah rank. Kita bisa membandingkan sejauh mana pemahaman kita dibandingkan dengan pengguna lain. Tentunya, jika kita memainkan aplikasinya secara terus-menerus, maka rank kita akan semakin tinggi.
+
 <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(Rank).jpeg" width="200" height="450">
 
+Fitur yang tak kalah penting ialah fitur untuk menambah relasi. Duolingo memiliki fitur untuk membuat profile, yang dimana profile ini juga memperlihatkan pencapaian kita selama memainkan aplikasi Duolingo. Kita bisa berteman (follow) dengan pengguna yang lain, disini kita bisa melihat atau bahkan mengapresiasi pencapaian yang diraih oleh teman kita. Tentunya, kita juga bisa mendapat apresiasi dari teman kita.
+
 <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(profile).jpeg" width="200" height="450">
+
+Selain itu, fitur yang membuat kita semangat bermain ialah misi harian. Misi ini membuat kita selalu ingin menyelesaikan dengan cara terus belajar (memainkan aplikasi).
 
 <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(Misi%20harian).jpeg" width="200" height="450">
 
