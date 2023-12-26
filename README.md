@@ -157,6 +157,28 @@ Duolingo ini ialah aplikasi untuk belajar bahasa dari berbagai negara. Ada banya
 
 <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(bahasa).jpeg" width="200" height="450">
 
+<img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(mulai).jpeg" width="200" height="450">
+
+<img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(hasil%20jawab%20soal).jpeg" width="200" height="450">
+
+<img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(rank%20mingguan).jpeg" width="200" height="450">
+
+<img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(nyawa).jpeg" width="200" height="450">
+
+<img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(Berbicara).jpeg" width="200" height="450">
+
+<img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(ulasan).jpeg" width="200" height="450">
+
+<img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(kesalahan).jpeg" width="200" height="450">
+
+<img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(Cerita).jpeg" width="200" height="450">
+
+<img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(Rank).jpeg" width="200" height="450">
+
+<img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(profile).jpeg" width="200" height="450">
+
+<img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Duolingo%20(Misi%20harian).jpeg" width="200" height="450">
+
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
