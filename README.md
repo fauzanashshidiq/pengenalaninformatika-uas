@@ -65,6 +65,11 @@ Penggunaan HackerRank saya coba demonstrasikan di youtube: Muhammad Fauzan Ashsh
 
 https://youtu.be/FS49wfySVX0
 
+Saya juga pernah mencoba tes untuk fitur certify, dan mendapat sertifikat untuk java (basic).
+<p align="center">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/HackerRank%20(certificate%20java_basic).png" width="700" height="400">
+</p>
+
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
