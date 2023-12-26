@@ -15,21 +15,25 @@
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
-
-![Screenshot 2023-12-26 195154](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/653eced8-095d-46ce-a057-c3e978aacfc9)
 ![Screenshot 2023-12-26 195145](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/61c2ef22-1bde-4565-84a2-e7c641a431fd)
+![Screenshot 2023-12-26 195154](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/653eced8-095d-46ce-a057-c3e978aacfc9)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+#### Saya membuat flowchart untuk algoritma Bubble Sort menggunakan bahasa pemrograman java.
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+![Flowchart](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/ae52e216-7fb4-4437-975c-9acd1be867a2)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-Referensi [1](https://scratch.mit.edu/)
+![Screenshot 2023-12-26 203856](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/a30e4415-d285-4bf0-a5d1-782af121d989)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+![BubbleSort](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/93b9e169-e890-4d43-8a24-2e266cc9df9f)
+#### OUTPUT:
+
+![Screenshot 2023-12-26 195906](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/0d726f7f-4cd7-4854-b7ba-fd4fa92d2604)
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
@@ -126,6 +130,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+#### Duolingo ini ialah aplikasi untuk belajar berbagai bahasa negara. Ada banyak sekali bahasa yang bisa kita pelajari
+![WhatsApp Image 2023-12-26 at 9 03 26 PM (1)](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/e033d8d2-76da-4738-927e-8a4daca0a9a1)
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
