@@ -30,7 +30,9 @@
 ![Screenshot 2023-12-26 203856](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/a30e4415-d285-4bf0-a5d1-782af121d989)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-![BubbleSort](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/93b9e169-e890-4d43-8a24-2e266cc9df9f)
+<p align="center">
+  <img src="[https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Bubble%20Sort%201.png](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Bubble%20Sort%201.png)" width="500" height="300">
+</p>
 #### OUTPUT:
 
 ![Screenshot 2023-12-26 195906](https://github.com/fauzanashshidiq/pengenalaninformatika-uas/assets/144435273/0d726f7f-4cd7-4854-b7ba-fd4fa92d2604)
