@@ -51,7 +51,7 @@ Saya membuat flowchart untuk algoritma Bubble Sort menggunakan bahasa pemrograma
 OUTPUT:
 
 <p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/BubbleSort%20Java%202.png" width="300" height="300">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/BubbleSort%20Java%202.png" width="400" height="400">
 </p>
 
 
