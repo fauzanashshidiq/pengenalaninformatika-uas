@@ -9,12 +9,6 @@ https://fauzanashshidiq.wordpress.com/2023/12/29/jenis-jenis-mesin-komputasi/
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 https://youtu.be/Q0g1PfiE9dA
 
-Google colab ini dikembangkan dengan mengdukung bahasa pemrograman bahasa python. Oleh karena itu, saya coba gunakan google colab dengan bahasa pemrograman python.
-
-<p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Google%20Colab%202.png" width="700" height="400">
-</p>
-
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
