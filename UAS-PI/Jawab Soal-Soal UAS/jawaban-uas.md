@@ -17,12 +17,6 @@ https://youtu.be/0m8XYkak8Oc
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-Saya membuat flowchart untuk algoritma Bubble Sort menggunakan bahasa pemrograman java.
-
-<p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Flowchart.jpg" width="500" height="700">
-</p>
-
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 https://youtu.be/wiudMxPhyVY
