@@ -22,18 +22,7 @@ https://youtu.be/0m8XYkak8Oc
 https://youtu.be/wiudMxPhyVY
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-Source code: https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Jawab%20Soal-Soal%20UAS/BubbleSort.java
-<p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Bubble%20Sort%201.png" width="500" height="500">
-</p>
-
-OUTPUT:
-
-<p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/BubbleSort%20Java%202.png" width="400" height="400">
-</p>
-
-
+https://youtu.be/T_qXwwp04Zc
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
