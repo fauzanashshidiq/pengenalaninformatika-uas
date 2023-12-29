@@ -40,9 +40,7 @@ Saya membuat flowchart untuk algoritma Bubble Sort menggunakan bahasa pemrograma
 
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-<p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Scratch.png" width="700" height="400">
-</p>
+https://youtu.be/wiudMxPhyVY
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 Source code: https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Jawab%20Soal-Soal%20UAS/BubbleSort.java
