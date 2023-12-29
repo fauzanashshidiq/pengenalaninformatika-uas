@@ -28,9 +28,7 @@ https://youtu.be/T_qXwwp04Zc
 https://youtu.be/1h7n77GEd1Is
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-Penggunaan HackerRank saya coba demonstrasikan di youtube: Muhammad Fauzan Ashshidiq
-
-https://youtu.be/FS49wfySVX0
+https://youtu.be/gdYTEw907KY
 
 Saya juga pernah mencoba tes untuk fitur certify, dan mendapat sertifikat untuk java (basic).
 <p align="center">
@@ -39,12 +37,11 @@ Saya juga pernah mencoba tes untuk fitur certify, dan mendapat sertifikat untuk 
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
+
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
 
-
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-
 
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
@@ -55,17 +52,13 @@ Saya juga pernah mencoba tes untuk fitur certify, dan mendapat sertifikat untuk 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
 
-
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
 
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
 
-
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
 
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
@@ -76,9 +69,12 @@ https://youtu.be/f1_aHJ6lM_U
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
+
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
+
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
@@ -90,44 +86,63 @@ https://fauzanashshidiq.wordpress.com/2023/12/17/sertakan-doa-dalam-proses-memoh
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
+
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
+
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
+
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
+
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
+
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
+
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
+
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
+
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 https://fauzanashshidiq.wordpress.com/2023/12/28/jawaban-soal-uas-pengenalan-informatika-eksplorasi-tools-belajar-bahasa-inggris-duolingo/
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 Saya mencoba searching lowongan pekerjaan di google, lalu saya mendapatkan website yang berisi untuk mencari lowongan pekerjaan. Di website ini kita bisa mencari lowongan pekerjaan kita dari berbagai bidang apapun, seperti pekerjaan bidang IT. Di website ini, terdapat fitur untuk jenis pekerjaan, tempat lowongan pekerjaan, sampai gaji/pendapatan. https://www.jobstreet.co.id/id/jobs
@@ -166,17 +181,19 @@ Website roadmap.sh ialah website untuk bagaimana alur untuk kita belajar di bida
 
 https://youtu.be/8MIuVr5oroo
 
-Saya berminat dengan topik AI & Data Science. Bisa dilihat untuk roadmapnya di link ini: https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/ai-data-scientist.pdf
-<p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/roadmap.sh%20(AI%20%26%20Data%20Science).png" width="700" height="400">
-</p>
+Saya berminat dengan topik AI & Data Science. Untuk roadmapnya bisa dilihat di link: https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/ai-data-scientist.pdf
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
+
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
+
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
+
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+
