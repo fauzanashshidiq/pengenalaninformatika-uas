@@ -102,6 +102,7 @@ Saya juga pernah mencoba tes untuk fitur certify, dan mendapat sertifikat untuk 
 
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+https://youtu.be/f1_aHJ6lM_U
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
