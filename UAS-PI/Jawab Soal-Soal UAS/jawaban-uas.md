@@ -25,6 +25,7 @@ https://youtu.be/wiudMxPhyVY
 https://youtu.be/T_qXwwp04Zc
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+https://youtu.be/1h7n77GEd1Is
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 Penggunaan HackerRank saya coba demonstrasikan di youtube: Muhammad Fauzan Ashshidiq
