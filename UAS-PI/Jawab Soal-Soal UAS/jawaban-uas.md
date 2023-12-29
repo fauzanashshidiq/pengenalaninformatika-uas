@@ -4,7 +4,7 @@
 Computational thinking ialah berpikir seperti komputer. Ketika menyelesaikan suatu masalah, kita identifikasi dahulu masalah tersebut dengan logika dan sistematis. Identifikasi masalah tersebut untuk kita selesaikan dengan efisien, dan dirancang dengan urutan untuk menyelesaikan masalah tersebut. Mengembangkan solusi langkah demi langkah atau algoritma untuk menyelesaikan masalah tersebut. Dengan computational thinking ini kita bukan hanya sekadar menyelesaikan masalah nya saja, namun kita identifikasi hasil dari penyelesaian itu. Hasil dari penyelesaian masalah yang dihadapi itu harus sudah sesuai dengan apa yang kita inginkan.
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-Mesin-mesin komputasi terdiri dari berbagai perangkat keras (hardware) dan perangkat lunak (software). Perangkat keras ialah semua komponen fisik dari sebuah sistem komputer atau perangkat elektronik. Contohnya seperti pc, embedded computer, dll. Perangkat lunak adalah serangkaian instruksi atau program yang memberi perintah pada perangkat keras untuk melakukan tugas tertentu. Ini mencakup sistem operasi, aplikasi, dan program-program lainnya. Contohnya seperti sistem operasi (windows, linux, Mac) dan aplikasi yang biasa kita gunakan seperti microsoft office, dsb. 
+https://fauzanashshidiq.wordpress.com/2023/12/29/jenis-jenis-mesin-komputasi/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 Google collaboratory saya aktifkan dalam google drive saya.
