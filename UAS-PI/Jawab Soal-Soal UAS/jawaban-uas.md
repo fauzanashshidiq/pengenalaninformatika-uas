@@ -195,10 +195,8 @@ Disini kita bisa mencari lowongan freelance, melihat profile freelancer yang lai
 
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-Website roadmap.sh ialah website untuk bagaimana alur untuk kita belajar di bidang IT. Terdapat banyak bidang yang bisa kita lihat, dan sangat recommended untuk kita yang bingung ketika ingin belajar harus mulai dari mana.
-<p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/roadmap.sh.png" width="700" height="400">
-</p>
+Website roadmap.sh ialah website untuk bagaimana alur untuk kita belajar di bidang IT.
+https://youtu.be/8MIuVr5oroo
 
 Saya berminat dengan topik AI & Data Science. Bisa dilihat untuk roadmapnya di link ini: https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/ai-data-scientist.pdf
 <p align="center">
