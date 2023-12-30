@@ -95,7 +95,7 @@ https://fauzanashshidiq.wordpress.com/2023/12/17/sertakan-doa-dalam-proses-memoh
 
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
-
+https://youtu.be/o8VdrcjoOKk
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
