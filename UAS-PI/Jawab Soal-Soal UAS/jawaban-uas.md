@@ -19,6 +19,7 @@ https://youtu.be/0m8XYkak8Oc
 https://youtu.be/7YNNklWFRKE
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+https://youtu.be/o1ew48_A4zo
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 https://youtu.be/wiudMxPhyVY
