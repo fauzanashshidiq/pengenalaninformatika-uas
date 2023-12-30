@@ -60,7 +60,7 @@ https://youtu.be/WhTMrNXflTA
 
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
+https://youtu.be/0VlCa_RSyNo
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 https://youtu.be/f1_aHJ6lM_U
