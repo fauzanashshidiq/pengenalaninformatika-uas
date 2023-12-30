@@ -51,10 +51,10 @@ https://youtu.be/bt7nv9GYiks
 https://youtu.be/WhTMrNXflTA
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-
+https://youtu.be/-26o8u_ym7k
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
+https://youtu.be/n53x4rcYXZs
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
