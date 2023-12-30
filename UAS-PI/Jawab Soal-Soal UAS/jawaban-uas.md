@@ -162,7 +162,7 @@ Saya berminat dengan topik AI & Data Science. Untuk roadmapnya bisa dilihat di l
 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
-
+https://youtu.be/cMR1AK8QhsU
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
