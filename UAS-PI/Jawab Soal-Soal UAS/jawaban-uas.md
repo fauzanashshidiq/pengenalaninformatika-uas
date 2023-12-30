@@ -147,35 +147,9 @@ https://fauzanashshidiq.wordpress.com/2023/12/28/jawaban-soal-uas-pengenalan-inf
 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-Saya mencoba searching lowongan pekerjaan di google, lalu saya mendapatkan website yang berisi untuk mencari lowongan pekerjaan. Di website ini kita bisa mencari lowongan pekerjaan kita dari berbagai bidang apapun, seperti pekerjaan bidang IT. Di website ini, terdapat fitur untuk jenis pekerjaan, tempat lowongan pekerjaan, sampai gaji/pendapatan. https://www.jobstreet.co.id/id/jobs
-<p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/loker.png" width="700" height="400">
-</p>
 
-Kita bisa melihat dan mengeksplor pekerjaan bidang IT seperti UI/UX Designer, Data Science, Frontend Developer, dsb.
-<p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/loker%20(ui-ux%20designer).png" width="700" height="400">
-</p>
-<p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/loker%20(data%20science).png" width="700" height="400">
-</p>
-<p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/loker%20(frontend%20dev).png" width="700" height="400">
-</p>
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-Saya mencoba eksplorasi Lowongan Freelancer di Freelancer.com. Di website ini kita dapat banyak melihat lowongan-lowongan sesuai dengan yang kita inginkan. Kita bisa atur skill yang kita miliki, sehingga dari website akan direkomendasikan lowongan freelance sesuai skill yang kita pilih.
-<p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/freelance%20(skill).png" width="700" height="400">
-</p>
-
-Disini kita bisa mencari lowongan freelance, melihat profile freelancer yang lain, dsb.
-<p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/freelance.png" width="700" height="400">
-</p>
-<p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/freelance%20(IT).png" width="700" height="400">
-</p>
 
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
