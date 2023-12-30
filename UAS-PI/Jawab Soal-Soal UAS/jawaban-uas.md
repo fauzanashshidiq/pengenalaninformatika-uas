@@ -106,7 +106,7 @@ https://fauzanashshidiq.wordpress.com/2023/12/17/sertakan-doa-dalam-proses-memoh
 
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
-
+https://youtu.be/CdPlhf2hlt0
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
