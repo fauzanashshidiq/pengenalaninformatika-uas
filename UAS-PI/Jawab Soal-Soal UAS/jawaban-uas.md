@@ -146,10 +146,10 @@ https://fauzanashshidiq.wordpress.com/2023/12/28/jawaban-soal-uas-pengenalan-inf
 https://youtu.be/rhWBm4yj6eA
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-
+https://youtu.be/HZA9jlhxQK8
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-
+https://youtu.be/v5I2w977yRQ
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 Website roadmap.sh ialah website untuk bagaimana alur untuk kita belajar di bidang IT.
