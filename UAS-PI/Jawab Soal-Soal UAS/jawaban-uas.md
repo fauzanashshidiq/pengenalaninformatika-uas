@@ -122,7 +122,7 @@ https://youtu.be/CdPlhf2hlt0
 
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
-
+https://youtu.be/KOzUHqssSxg
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
