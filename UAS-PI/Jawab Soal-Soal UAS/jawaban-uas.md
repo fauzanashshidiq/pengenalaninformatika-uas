@@ -143,7 +143,7 @@ https://youtu.be/KOzUHqssSxg
 https://fauzanashshidiq.wordpress.com/2023/12/28/jawaban-soal-uas-pengenalan-informatika-eksplorasi-tools-belajar-bahasa-inggris-duolingo/
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
-
+https://youtu.be/rhWBm4yj6eA
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
