@@ -98,7 +98,7 @@ https://fauzanashshidiq.wordpress.com/2023/12/17/sertakan-doa-dalam-proses-memoh
 https://youtu.be/o8VdrcjoOKk
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
-
+https://youtu.be/OC9P9acaikE
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 https://youtu.be/1zGZBQsPvdI
