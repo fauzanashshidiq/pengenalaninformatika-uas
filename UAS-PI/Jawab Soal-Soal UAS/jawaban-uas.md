@@ -101,7 +101,7 @@ https://youtu.be/o8VdrcjoOKk
 
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
-
+https://youtu.be/1zGZBQsPvdI
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
@@ -113,10 +113,10 @@ https://youtu.be/CdPlhf2hlt0
 
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
-
+https://youtu.be/ME8ReDbkrlQ
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
-
+https://youtu.be/N56YJfP8Aeg
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 https://youtu.be/wWQRMOdXrvg
