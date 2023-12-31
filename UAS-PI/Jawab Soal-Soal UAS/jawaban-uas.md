@@ -159,13 +159,13 @@ https://youtu.be/8MIuVr5oroo
 Saya berminat dengan topik AI & Data Science. Untuk roadmapnya bisa dilihat di link: https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/ai-data-scientist.pdf
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
-
+https://youtu.be/diWlxFd79oc
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 https://youtu.be/cMR1AK8QhsU
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
-
+https://youtu.be/13LD8xkrlqY
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
