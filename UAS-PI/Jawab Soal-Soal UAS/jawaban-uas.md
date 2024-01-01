@@ -72,7 +72,7 @@ https://youtu.be/f1_aHJ6lM_U
 
 
 ## Mencoba HTTP Request dan Web API dengan HTTP Client Hoppscotch / Postman [v] ⭐⭐
-
+https://youtu.be/-JPflsEvnjA
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 https://youtu.be/FhVswRPzCSg
