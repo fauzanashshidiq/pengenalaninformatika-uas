@@ -131,13 +131,13 @@ https://youtu.be/ziGic_uZDy8
 
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
-
+https://youtu.be/SW5oyoeSd-Q
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
-
+https://youtu.be/5LyaiFTOSeY
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
-
+https://youtu.be/TbxnYApoUx4
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 https://fauzanashshidiq.wordpress.com/2023/12/28/jawaban-soal-uas-pengenalan-informatika-eksplorasi-tools-belajar-bahasa-inggris-duolingo/
