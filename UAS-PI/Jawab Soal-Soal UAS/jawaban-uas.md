@@ -104,7 +104,7 @@ https://youtu.be/OC9P9acaikE
 https://youtu.be/1zGZBQsPvdI
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
-
+https://youtu.be/n53uzkXahrk
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 https://youtu.be/CdPlhf2hlt0
@@ -152,8 +152,6 @@ https://youtu.be/HZA9jlhxQK8
 https://youtu.be/v5I2w977yRQ
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-Website roadmap.sh ialah website untuk bagaimana alur untuk kita belajar di bidang IT.
-
 https://youtu.be/8MIuVr5oroo
 
 Saya berminat dengan topik AI & Data Science. Untuk roadmapnya bisa dilihat di link: https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/ai-data-scientist.pdf
