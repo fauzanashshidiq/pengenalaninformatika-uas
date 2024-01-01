@@ -166,7 +166,7 @@ https://youtu.be/cMR1AK8QhsU
 https://youtu.be/13LD8xkrlqY
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-
+https://fauzanashshidiq.wordpress.com/2024/01/02/fundamental-membangun-startup/
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
