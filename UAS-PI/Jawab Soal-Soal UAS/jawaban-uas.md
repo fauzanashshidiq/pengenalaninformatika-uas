@@ -92,7 +92,7 @@ https://fauzanashshidiq.wordpress.com/2023/12/17/sertakan-doa-dalam-proses-memoh
 
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
-
+https://youtu.be/kBSzy5TyMtY
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 https://youtu.be/o8VdrcjoOKk
@@ -110,7 +110,7 @@ https://youtu.be/1zGZBQsPvdI
 https://youtu.be/CdPlhf2hlt0
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
-
+https://youtu.be/-2JYa5uOoRo
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 https://youtu.be/ME8ReDbkrlQ
