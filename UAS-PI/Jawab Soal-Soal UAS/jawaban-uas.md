@@ -86,10 +86,10 @@ Saya membuat konten di Wordpress dengan judul "Sertakan Doa dalam Proses Memohon
 https://fauzanashshidiq.wordpress.com/2023/12/17/sertakan-doa-dalam-proses-memohon-bimbingan-allah-dalam-menghafal/
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-
+https://youtu.be/u7I7j7O_Owg
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-
+https://youtu.be/F-vX7714mDU
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 https://youtu.be/kBSzy5TyMtY
