@@ -81,6 +81,8 @@ https://youtu.be/FhVswRPzCSg
 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+https://youtu.be/mt6e8WZzito
+
 Saya membuat konten di Wordpress dengan judul "Sertakan Doa dalam Proses Memohon Bimbingan Allah dalam Menghafal". Dimana konten saya ini terinspirasi (menge-link) dari konten Wordpress yang berjudul "Tips Menghafal Al-Qur'an untuk Mahasiswa"
 
 https://fauzanashshidiq.wordpress.com/2023/12/17/sertakan-doa-dalam-proses-memohon-bimbingan-allah-dalam-menghafal/
