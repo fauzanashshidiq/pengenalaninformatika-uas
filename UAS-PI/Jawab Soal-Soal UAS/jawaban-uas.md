@@ -168,5 +168,10 @@ https://youtu.be/13LD8xkrlqY
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 https://fauzanashshidiq.wordpress.com/2024/01/02/fundamental-membangun-startup/
 
+<p align="center">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Sertifikat%20Event%20STARTUP.png" width="700" height="500">
+</p>
+
+
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
