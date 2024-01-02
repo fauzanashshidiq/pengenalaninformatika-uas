@@ -11,10 +11,10 @@ https://youtu.be/Q0g1PfiE9dA
 
 ## Mencoba Console Sistem Operasi
 
-### Windows CMD [v] ⭐⭐⭐⭐
+#### Windows CMD [v] ⭐⭐⭐⭐
 https://youtu.be/0m8XYkak8Oc
 
-### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+#### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 https://youtu.be/7YNNklWFRKE
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
