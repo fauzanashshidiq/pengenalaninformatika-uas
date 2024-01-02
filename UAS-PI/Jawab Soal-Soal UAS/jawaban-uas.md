@@ -1,7 +1,7 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-Computational thinking ialah berpikir seperti komputer. Ketika menyelesaikan suatu masalah, kita identifikasi dahulu masalah tersebut dengan logika dan sistematis. Identifikasi masalah tersebut untuk kita selesaikan dengan efisien, dan dirancang dengan urutan untuk menyelesaikan masalah tersebut. Mengembangkan solusi langkah demi langkah atau algoritma untuk menyelesaikan masalah tersebut. Dengan computational thinking ini kita bukan hanya sekadar menyelesaikan masalah nya saja, namun kita identifikasi hasil dari penyelesaian itu. Hasil dari penyelesaian masalah yang dihadapi itu harus sudah sesuai dengan apa yang kita inginkan.
+https://fauzanashshidiq.wordpress.com/2024/01/02/computational-thinking/
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 https://fauzanashshidiq.wordpress.com/2023/12/29/jenis-jenis-mesin-komputasi/
