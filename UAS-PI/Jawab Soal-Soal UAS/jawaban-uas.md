@@ -39,7 +39,14 @@ Saya juga pernah mencoba tes untuk fitur certify, dan mendapat sertifikat untuk 
 </p>
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+Video Demonstrasi:
+https://youtu.be/bH1DRO2yN_M
+
+Github demo aplikasi:
 https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/blob/main/uts-job-interview.md
+
+Source code:
+https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/blob/main/src/App.js
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 https://youtu.be/ayYYPgOBCvc
