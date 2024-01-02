@@ -132,7 +132,7 @@ https://youtu.be/KOzUHqssSxg
 https://youtu.be/ziGic_uZDy8
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
-
+https://fauzanashshidiq.wordpress.com/2024/01/02/jurnal-tentang-implementasi-frontend-website-dinamis/
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 https://youtu.be/SW5oyoeSd-Q
