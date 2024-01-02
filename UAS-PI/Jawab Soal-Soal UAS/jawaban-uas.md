@@ -78,7 +78,7 @@ https://youtu.be/-JPflsEvnjA
 https://youtu.be/FhVswRPzCSg
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-
+https://youtu.be/cz8aCR11ASI
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 https://youtu.be/mt6e8WZzito
@@ -174,4 +174,4 @@ https://fauzanashshidiq.wordpress.com/2024/01/02/fundamental-membangun-startup/
 
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
-
+https://fauzanashshidiq.wordpress.com/2024/01/02/buku-bertema-informatika-kecerdasan-komputational-dan-aplikasinya-dengan-menggunakan-python/
