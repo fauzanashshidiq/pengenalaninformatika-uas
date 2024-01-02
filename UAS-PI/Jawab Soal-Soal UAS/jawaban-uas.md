@@ -74,8 +74,7 @@ https://youtu.be/f1_aHJ6lM_U
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 https://youtu.be/VrAA6ckHugs
 
-Web nya:
-
+Web nya : 
 https://fauzanashshidiq.000webhostapp.com/
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
@@ -92,6 +91,8 @@ https://youtu.be/cz8aCR11ASI
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 https://youtu.be/mt6e8WZzito
+
+Salah satu artikel yang saya buat (menge-link ke artikel "Tips Menghapal Al-Qur'an Untuk Mahasiswa) :
 
 https://fauzanashshidiq.wordpress.com/2023/12/17/sertakan-doa-dalam-proses-memohon-bimbingan-allah-dalam-menghafal/
 
@@ -164,7 +165,7 @@ https://youtu.be/v5I2w977yRQ
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 https://youtu.be/8MIuVr5oroo
 
-Saya berminat dengan topik AI & Data Science. Untuk roadmapnya bisa dilihat di link: https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/ai-data-scientist.pdf
+Saya berminat dengan topik AI & Data Science : https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/ai-data-scientist.pdf
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 https://youtu.be/diWlxFd79oc
