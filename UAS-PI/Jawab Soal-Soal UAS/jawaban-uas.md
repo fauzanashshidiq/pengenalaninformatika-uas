@@ -10,7 +10,6 @@ https://fauzanashshidiq.wordpress.com/2023/12/29/jenis-jenis-mesin-komputasi/
 https://youtu.be/Q0g1PfiE9dA
 
 ## Mencoba Console Sistem Operasi
-https://youtu.be/7YNNklWFRKE
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 https://youtu.be/0m8XYkak8Oc
