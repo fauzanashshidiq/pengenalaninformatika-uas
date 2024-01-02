@@ -41,7 +41,7 @@ Saya juga pernah mencoba tes untuk fitur certify, dan mendapat sertifikat untuk 
 Video Demonstrasi:
 https://youtu.be/bH1DRO2yN_M
 
-Github demo aplikasi:
+Github demo aplikasi (Jawaban UTS):
 https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/blob/main/uts-job-interview.md
 
 Source code:
