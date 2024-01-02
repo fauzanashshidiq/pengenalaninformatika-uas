@@ -57,7 +57,7 @@ https://youtu.be/-26o8u_ym7k
 https://youtu.be/n53x4rcYXZs
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-
+https://youtu.be/MCo1MNzjSZE
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 https://youtu.be/0VlCa_RSyNo
@@ -66,7 +66,11 @@ https://youtu.be/0VlCa_RSyNo
 https://youtu.be/f1_aHJ6lM_U
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+https://youtu.be/VrAA6ckHugs
 
+Web nya:
+
+https://fauzanashshidiq.000webhostapp.com/
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
